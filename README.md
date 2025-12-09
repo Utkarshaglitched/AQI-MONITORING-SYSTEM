@@ -103,16 +103,12 @@ The dashboard UI was refined and styled with the help of **AI tools like ChatGPT
 
 ### 💾 **Code (INO file)**
 
-```
-AQIRead.ino
+[📄 Download AQIRead.ino](AQIRead.ino)
 
-```
 
 ### 📦 **Complete ZIP Project**
 
-```
-AQIALL.zip
-```
+[📄 Download AQIRead.ino](AQIALL.zip)
 
 
 ---
