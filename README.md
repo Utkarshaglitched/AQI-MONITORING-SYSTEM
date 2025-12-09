@@ -1,6 +1,6 @@
 **AQI MONITORING SYSTEM**
 
-<img width="1024" height="1024" alt="AQI" src="https://github.com/user-attachments/assets/f52feb1c-05b7-4b58-8ca2-de2db5cb565b" />
+<img width="400" height="400" alt="AQI" src="https://github.com/user-attachments/assets/f52feb1c-05b7-4b58-8ca2-de2db5cb565b" />
 
 🎥 **Watch Demo Video:**  
 https://www.linkedin.com/posts/YOUR-POST-LINK
