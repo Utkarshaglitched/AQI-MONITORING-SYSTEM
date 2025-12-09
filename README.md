@@ -3,7 +3,7 @@
 <img width="400" height="400" alt="AQI" src="https://github.com/user-attachments/assets/f52feb1c-05b7-4b58-8ca2-de2db5cb565b" />
 
 🎥 **Watch Demo Video:**  
-[https://www.linkedin.com/posts/YOUR-POST-LINK](https://www.linkedin.com/posts/utkarsha-avinash-98b984374_iot-esp32-airquality-activity-7404236930810408960-rZ-l/)
+[https://www.linkedin.com/posts/AQI SYSTEM](https://www.linkedin.com/posts/utkarsha-avinash-98b984374_iot-esp32-airquality-activity-7404236930810408960-rZ-l/)
 
 ## 📘 **About the Project**
 
